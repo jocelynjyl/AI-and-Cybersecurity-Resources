@@ -4,4 +4,4 @@
 ### LLM
 | Link | Description |
 | --- | ---| 
-| [Dataiku LLM Cheatsheet] (https://content.dataiku.com/the-llm-cheatsheet-bundle) | |
+| [Dataiku LLM Cheatsheet](https://content.dataiku.com/the-llm-cheatsheet-bundle) | |
