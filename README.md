@@ -1,9 +1,11 @@
 # AI and Cybersecurity Resources
 ## Cybersecurity & AI 
+
 | Link | Description |
 | --- | --- |
 | [Generative AI Security Adventures](https://otrf.github.io/GenAI-Security-Adventures/README.html#contributing) | Opensource collection of experiments using LLMs for security applications |
 ### Papers and Workshops 
+
 | Link | Description |
 | --- | --- |
 | [Dos and Don'ts of Machine Learning in Computer Security](https://dodo-mlsec.org), [Paper](https://www.usenix.org/system/files/sec22-arp.pdf)| 2022 Paper on ML Pitfalls associated with cybersecurity | 
@@ -11,20 +13,25 @@
 
 ## Cybersecurity
 > Cybersecurity topics in general
+
 | Link | Description |
 | --- | --- |
-|[Threat Hunting and Detection] (https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main)| Cyb3r-Monk's repository on threat hunting and detection|
+|[Threat Hunting and Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main)| Cyb3r-Monk's repository on threat hunting and detection |
+|[Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection) | GitHub repository with curated threat detection resources | 
 ## AI/ML
 > AI/ML topics in general
+
 | Link | Description |
 | --- | ---| 
 
 ### LLMs and GenAI
 > LLM and GenAI specific references and links
+
 | Link | Description |
-| --- | ---| 
+| --- | --- | 
 | [Dataiku LLM Cheatsheet](https://content.dataiku.com/the-llm-cheatsheet-bundle) | |
 ### Papers and Workshops
+
 | Link | Description | 
 | --- | --- | 
 | [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497) | Covers common mistakes and pitfalls in ML projects | 
@@ -33,12 +40,14 @@
  
 ## Packages & Frameworks
 ### ML 
+
 | Link | Description | 
 | --- | --- | 
 | [StellarGraph](https://stellargraph.readthedocs.io/en/stable/README.html#introduction) | Graph machine Learning | 
 | [AutoML](https://www.automl.org) | Methods and process for automation of ML | 
 | [LangChain](https://python.langchain.com/v0.2/docs/introduction/) | Langchain | 
 ### Python (general) 
+
 | Link | Description | 
 | --- | --- | 
 | [FastAPI](https://fastapi.tiangolo.com) | FastAPI | 
