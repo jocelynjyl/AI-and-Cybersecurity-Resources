@@ -2,6 +2,7 @@
 ## Cybersecurity & AI 
 -  Opensource collection of experiments using LLMs for security applications: [Generative AI Security Adventures](https://otrf.github.io/GenAI-Security-Adventures/README.html#contributing)
 -  Events and Conferences: [AI Security and Privacy Events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
+-  [SecBERT](https://huggingface.co/jackaduma/SecBERT)
 ### Papers and Workshops 
 - 2022 Paper on ML Pitfalls associated with cybersecurity applications
   - [Dos and Don'ts of Machine Learning in Computer Security](https://dodo-mlsec.org)
@@ -12,6 +13,7 @@
 ## Cybersecurity
 > Blue Team
 - [OpenSSF Technical Advisory Council](https://github.com/ossf/tac?tab=readme-ov-file)
+- [Malware Reverse Engineering](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering)
 > Threat Hunting and Threat Detection 
 -  Cyb3r-Monk's repository on threat hunting and detection: [Threat Hunting and Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main)
 -  GitHub repository with curated threat detection resources: [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection)
@@ -19,11 +21,13 @@
 > Red Team
 - Unix binary abuse: [GTFOBins](https://gtfobins.github.io/)
   
+  
 ## AI/ML
 > AI/ML topics in general
 - [AI Expert Roadmap 2022](https://i.am.ai/roadmap/#data-science-roadmap)
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [LLM Visualizations](https://bbycroft.net/llm)
+- [How Node2Vec works](https://memgraph.com/blog/how-node2vec-works)
 ### LLMs and GenAI
 > LLM and GenAI specific references and links
 - [Dataiku LLM Cheatsheet](https://content.dataiku.com/the-llm-cheatsheet-bundle)
@@ -32,6 +36,7 @@
 - [Intro to GenAI - blog](https://www.lorcandempsey.net/intro-gen-ai/)
 - [Datacamp tutorial: Fine Tuning LLMs](https://www.datacamp.com/tutorial/fine-tuning-large-language-models)
 - [Fine Tuning LLMs](https://www.turing.com/resources/finetuning-large-language-models)
+- [LLM Patterns](https://eugeneyan.com/writing/llm-patterns/) and [How to Match LLM Patterns to Problems](https://eugeneyan.com/writing/llm-problems/)
 ### Papers and Workshops
 - Common mistakes and pitfalls in ML projects: [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497) 
 - Workshop on reproducibility crisis of ML: [Reproducibility Workshop (Princeton)](https://sites.google.com/princeton.edu/rep-workshop/) 
@@ -53,3 +58,4 @@
 - FastAPI: [FastAPI](https://fastapi.tiangolo.com)
 - Data validation: [Pydantic](https://docs.pydantic.dev/2.7/)
 - Marimo (interactive Jupyter-like notebooks): [Marimo](https://github.com/marimo-team/marimo)
+- [Why Python Super is harmful](https://fuhm.net/super-harmful/)
