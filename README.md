@@ -17,13 +17,19 @@
 > Blue Team
 - [OpenSSF Technical Advisory Council](https://github.com/ossf/tac?tab=readme-ov-file)
 - [Malware Reverse Engineering](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering)
+- [Incident Response Plan Templates](https://github.com/counteractive/incident-response-plan-template)
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [Windows Logging Cheatsheet win7 - win 2012](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/580595db9f745688bc7477f6/1476761074992/Windows+Logging+Cheat+Sheet_ver_Oct_2016.pdf)
+- [Core Windows Processes](https://0xcybery.github.io/blog/Core-Processes-In-Windows-System)
+- [SANS Hunt Evil poster](https://www.sans.org/posters/hunt-evil/)
 > Threat Hunting and Threat Detection 
 -  Cyb3r-Monk's repository on threat hunting and detection: [Threat Hunting and Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main)
 -  GitHub repository with curated threat detection resources: [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection)
 -  [Microsoft AD Recommended Events to Monitor](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor)
 > Red Team
 - Unix binary abuse: [GTFOBins](https://gtfobins.github.io/)
-  
+### Books
+- [Psychology of Intelligence Analysis](https://web.archive.org/web/20201206081245/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf)
   
 ## AI/ML
 > AI/ML topics in general
@@ -31,6 +37,8 @@
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [LLM Visualizations](https://bbycroft.net/llm)
 - [How Node2Vec works](https://memgraph.com/blog/how-node2vec-works)
+- [PathMind Wiki on AI/ML](https://wiki.pathmind.com/automl-automated-machine-learning-ai)
+- [Deep Learning Unit Tests](https://krokotsch.eu/posts/deep-learning-unit-tests/)
 ### LLMs and GenAI
 > LLM and GenAI specific references and links
 - [Dataiku LLM Cheatsheet](https://content.dataiku.com/the-llm-cheatsheet-bundle)
@@ -62,3 +70,4 @@
 - Data validation: [Pydantic](https://docs.pydantic.dev/2.7/)
 - Marimo (interactive Jupyter-like notebooks): [Marimo](https://github.com/marimo-team/marimo)
 - [Why Python Super is harmful](https://fuhm.net/super-harmful/)
+- [Python tips](https://book.pythontips.com/en/latest/index.html#)
