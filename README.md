@@ -9,6 +9,9 @@
   - [Paper](https://www.usenix.org/system/files/sec22-arp.pdf) 
 - 2021 CMU presentation on beacon detection: [Traditional and Advanced Techniques for Network Beacon Detection](https://www.cylab.cmu.edu/_files/documents/2021-partners-conference/dustin-updyke-tom-podnar.pdf)
 - [AnnoCTR (Bosch)](https://github.com/boschresearch/anno-ctr-lrec-coling-2024/)
+- Considerations for Evaluating LLMs for Cybersecurity Tasks:
+  - [Paper](https://insights.sei.cmu.edu/library/considerations-for-evaluating-large-language-models-for-cybersecurity-tasks/)
+  - [Blog](https://insights.sei.cmu.edu/blog/openai-collaboration-yields-14-recommendations-for-evaluating-llms-for-cybersecurity/)
 
 ## Cybersecurity
 > Blue Team
