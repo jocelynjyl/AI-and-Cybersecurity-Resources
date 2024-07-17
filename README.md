@@ -1,8 +1,13 @@
 # AI and Cybersecurity Resources
 ## Cybersecurity & AI 
+> Blue Team
 -  Opensource collection of experiments using LLMs for security applications: [Generative AI Security Adventures](https://otrf.github.io/GenAI-Security-Adventures/README.html#contributing)
--  Events and Conferences: [AI Security and Privacy Events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
 -  [SecBERT](https://huggingface.co/jackaduma/SecBERT)
+-  [Galah (LLM Honeypot)](https://github.com/0x4D31/galah?utm_source=substack&utm_medium=email)
+> Red Team
+-  [Web LLM attacks](https://portswigger.net/web-security/llm-attacks?utm_source=substack&utm_medium=email)
+### Events and Conferences: 
+-  [AI Security and Privacy Events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
 ### Papers and Workshops 
 - 2022 Paper on ML Pitfalls associated with cybersecurity applications
   - [Dos and Don'ts of Machine Learning in Computer Security](https://dodo-mlsec.org)
@@ -12,6 +17,12 @@
 - Considerations for Evaluating LLMs for Cybersecurity Tasks:
   - [Paper](https://insights.sei.cmu.edu/library/considerations-for-evaluating-large-language-models-for-cybersecurity-tasks/)
   - [Blog](https://insights.sei.cmu.edu/blog/openai-collaboration-yields-14-recommendations-for-evaluating-llms-for-cybersecurity/)
+### AI Risk and LLM vulnerabilities 
+- [AI Risk Database](https://airisk.io)
+- [AVID AI Risk and Vulnerability Database](https://avidml.org/database/)
+- [MITRE ATLAS](https://atlas.mitre.org)
+- [Azure PyRIT](https://github.com/Azure/PyRIT)
+
 
 ## Cybersecurity
 > Blue Team
@@ -26,6 +37,10 @@
 -  Cyb3r-Monk's repository on threat hunting and detection: [Threat Hunting and Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main)
 -  GitHub repository with curated threat detection resources: [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection)
 -  [Microsoft AD Recommended Events to Monitor](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor)
+-  [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering)
+-  [Cyber Analytics Repository](https://car.mitre.org)
+-  [OWASP Cheatsheet - Threat Modeling](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
+-  [Detection Use Cases](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/blue-defense/event-detection/detection-use-cases)
 > Red Team
 - Unix binary abuse: [GTFOBins](https://gtfobins.github.io/)
 ### Books
@@ -39,6 +54,7 @@
 - [How Node2Vec works](https://memgraph.com/blog/how-node2vec-works)
 - [PathMind Wiki on AI/ML](https://wiki.pathmind.com/automl-automated-machine-learning-ai)
 - [Deep Learning Unit Tests](https://krokotsch.eu/posts/deep-learning-unit-tests/)
+- [Self Attention From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 ### LLMs and GenAI
 > LLM and GenAI specific references and links
 - [Dataiku LLM Cheatsheet](https://content.dataiku.com/the-llm-cheatsheet-bundle)
@@ -48,6 +64,7 @@
 - [Datacamp tutorial: Fine Tuning LLMs](https://www.datacamp.com/tutorial/fine-tuning-large-language-models)
 - [Fine Tuning LLMs](https://www.turing.com/resources/finetuning-large-language-models)
 - [LLM Patterns](https://eugeneyan.com/writing/llm-patterns/) and [How to Match LLM Patterns to Problems](https://eugeneyan.com/writing/llm-problems/)
+- [ChatGPT prompting](https://github.com/f/awesome-chatgpt-prompts)
 ### Papers and Workshops
 - Common mistakes and pitfalls in ML projects: [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497) 
 - Workshop on reproducibility crisis of ML: [Reproducibility Workshop (Princeton)](https://sites.google.com/princeton.edu/rep-workshop/) 
@@ -72,3 +89,4 @@
 - Marimo (interactive Jupyter-like notebooks): [Marimo](https://github.com/marimo-team/marimo)
 - [Why Python Super is harmful](https://fuhm.net/super-harmful/)
 - [Python tips](https://book.pythontips.com/en/latest/index.html#)
+- [Python concurrent](https://github.com/crazyguitar/pysheeet/blob/master/docs/appendix/python-concurrent.rst)
