@@ -8,6 +8,7 @@
 -  [Web LLM attacks](https://portswigger.net/web-security/llm-attacks?utm_source=substack&utm_medium=email)
 ### Events and Conferences: 
 -  [AI Security and Privacy Events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
+-  [Conference on Applied ML in Information Security](https://www.camlis.org)
 ### Papers and Workshops 
 - 2022 Paper on ML Pitfalls associated with cybersecurity applications
   - [Dos and Don'ts of Machine Learning in Computer Security](https://dodo-mlsec.org)
