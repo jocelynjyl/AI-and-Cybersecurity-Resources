@@ -34,6 +34,7 @@
 - [Windows Logging Cheatsheet win7 - win 2012](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/580595db9f745688bc7477f6/1476761074992/Windows+Logging+Cheat+Sheet_ver_Oct_2016.pdf)
 - [Core Windows Processes](https://0xcybery.github.io/blog/Core-Processes-In-Windows-System)
 - [SANS Hunt Evil poster](https://www.sans.org/posters/hunt-evil/)
+- [Active Directory Security](https://adsecurity.org)
 > Threat Hunting and Threat Detection 
 -  Cyb3r-Monk's repository on threat hunting and detection: [Threat Hunting and Detection](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection/tree/main)
 -  GitHub repository with curated threat detection resources: [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection)
@@ -42,8 +43,10 @@
 -  [Cyber Analytics Repository](https://car.mitre.org)
 -  [OWASP Cheatsheet - Threat Modeling](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 -  [Detection Use Cases](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/blue-defense/event-detection/detection-use-cases)
+-  [Rabobank DeTTECT](https://github.com/rabobank-cdc/DeTTECT?tab=readme-ov-file)
 > Red Team
 - Unix binary abuse: [GTFOBins](https://gtfobins.github.io/)
+- [Atomic Red Team](https://atomicredteam.io/atomics/)
 ### Books
 - [Psychology of Intelligence Analysis](https://web.archive.org/web/20201206081245/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/PsychofIntelNew.pdf)
   
